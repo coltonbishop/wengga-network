@@ -5,3 +5,5 @@ The neural network that powers the Wengga translation web application. Visit htt
 <p align="center">
 <img src="resources/wengga-net.png" width = "500px" />
 </p>
+
+To run: 
